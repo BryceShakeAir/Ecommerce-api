@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="Logo React" width="240">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/180px-Expressjs.png" alt="Logo React" width="240">
     <br><br>
     Ecommerce REST Application with MongoDB Implementation
 </h1>
